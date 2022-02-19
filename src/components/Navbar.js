@@ -58,6 +58,10 @@ const NavMenu = styled.div`
 
 const NavMenuLinks = styled(Link)`
   ${NavLink}
+
+  ${NavLink}:hover {
+    background: rgb(0, 0, 0, 0.6);
+  }
 `;
 
 const NavBtn = styled.div`
