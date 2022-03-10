@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/real-estate/static/css/main.e6c13ad2.css",
+    "main.js": "/real-estate/static/js/main.f7171b8f.js",
+    "static/js/787.cc34f074.chunk.js": "/real-estate/static/js/787.cc34f074.chunk.js",
+    "static/media/outer02.jpg": "/real-estate/static/media/outer02.523dbc874b0ac2e6eefa.jpg",
+    "static/media/outer01.jpg": "/real-estate/static/media/outer01.7d5e10b03840f3baa807.jpg",
+    "static/media/image04.jpg": "/real-estate/static/media/image04.ca344d14d0dcedf0af4e.jpg",
+    "static/media/image02.jpg": "/real-estate/static/media/image02.6362dfb0ee49adfe8657.jpg",
+    "static/media/image01.jpg": "/real-estate/static/media/image01.c373e5f4a77b6e051e29.jpg",
+    "static/media/image03.jpg": "/real-estate/static/media/image03.e7d48d6bf204649f1421.jpg",
+    "index.html": "/real-estate/index.html",
+    "main.e6c13ad2.css.map": "/real-estate/static/css/main.e6c13ad2.css.map",
+    "main.f7171b8f.js.map": "/real-estate/static/js/main.f7171b8f.js.map",
+    "787.cc34f074.chunk.js.map": "/real-estate/static/js/787.cc34f074.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f7171b8f.js"
+  ]
+}
